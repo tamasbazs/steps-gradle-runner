@@ -24,7 +24,6 @@ import (
 const failedToFindTargetWithHashString = `Failed to find target with hash string `
 const failedToFindBuildToolRevision = `Failed to find Build Tools revision `
 const failedToFindPlatformSDKWithPath = `Failed to find Platform SDK with path: `
-const couldNotFind = `Could not find `
 const couldNotHEAD = `Could not HEAD `
 const connectionTimedOut = `Connection timed out`
 const couldNotRead = `Could not read `

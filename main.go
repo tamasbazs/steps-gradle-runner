@@ -39,7 +39,6 @@ var automaticRetryReasonPatterns = []string{
 	failedToFindTargetWithHashString,
 	failedToFindBuildToolRevision,
 	failedToFindPlatformSDKWithPath,
-	couldNotFind,
 	couldNotHEAD,
 	connectionTimedOut,
 	couldNotRead,
